@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766047710648",
+    "firebase_url": "https://ignite-d3c58.firebaseio.com",
+    "project_id": "ignite-d3c58",
+    "storage_bucket": "ignite-d3c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766047710648:android:a97eff24ba687445",
+        "android_client_info": {
+          "package_name": "com.appmanagement.event.ignite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766047710648-aovmiobfikamoo9r5psrbs04pbbehqa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmanagement.event.ignite",
+            "certificate_hash": "02a74e75cadd1fe02492e9d2cae4346955df19c2"
+          }
+        },
+        {
+          "client_id": "766047710648-0eqgf55aguaffgpu8ru851nhuiln0q34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-cmHeY9VhMBkmbLWK0CRb8LHF1AbczFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766047710648-0eqgf55aguaffgpu8ru851nhuiln0q34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

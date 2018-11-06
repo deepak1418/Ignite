@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/Gallery" />
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/ic_people_black"
+            android:title="@string/Team"/>
+        <item
+            android:id="@+id/nav_sponsor"
+            android:icon="@drawable/ic_nature_people_black"
+            android:title="@string/Sponsor"/>
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_black"
+            android:title="@string/Events"/>
+        <item
+            android:id="@+id/nav_score"
+            android:icon="@drawable/ic_import_contacts_black"
+            android:title="@string/Score"/>
+        <item
+            android:id="@+id/nav_workshops"
+            android:icon="@drawable/ic_group_work_black"
+            android:title="@string/Workshops"/>
+        <item
+            android:id="@+id/nav_winner"
+            android:icon="@drawable/ic_accessibility_black"
+            android:title="@string/Winner"/>
+        <item
+            android:id="@+id/nav_diretion"
+            android:icon="@drawable/ic_directions_black"
+            android:title="@string/Direction"/>
+        <item
+            android:id="@+id/nav_live"
+            android:icon="@drawable/ic_live_tv_black"
+            android:title="@string/Live"/>
+
+
+    </group>
+
+
+</menu>
